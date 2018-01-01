@@ -38,6 +38,9 @@ If Run All gives no module error try installing the necassary modules through Pi
 
 And Here you go with successful fake news detector!
 
+## A Screenshot
+[![screenshot](https://cloud.githubusercontent.com/assets/252962/4397369/9f9c844c-4441-11e4-9bd1-daa99a79a4d0.jpg)]
+
 
 ## Issues You May Encounter
 
